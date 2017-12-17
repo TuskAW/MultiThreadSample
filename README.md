@@ -13,4 +13,4 @@
 ## Unity
 * Player Settings > Other Settings > Scripting Runtime Version
 
-<img src="External/ReadMeImages/UnityScriptingRuntimeVersion.jpg" width="40%">
+<img src="External/ReadMeImages/UnityScriptingRuntimeVersion.jpg">
